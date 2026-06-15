@@ -19,6 +19,3 @@ This map uses spatial data analysis to represent the villages and estimated popu
 population of 24,737 residents:
 - Hengchun Township: 14 villages
 - Manzhou Township: 1 village
-
-## Interactive Map
-https://ameliachung.github.io/nuclear-risk-tw
